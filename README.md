@@ -2,8 +2,9 @@
 
 Cryptographically secure one-time pad implementation for Node.js using XOR encryption.
 
-[![npm version](https://badge.fury.io/js/%40caesarsage%2Fotp.svg)](https://www.npmjs.com/package/otp-encryption)
+[![npm version](https://img.shields.io/npm/v/otp-encryption.svg)](https://www.npmjs.com/package/otp-encryption)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## What is OTP - One-Time Pad Cryptography and how it works
 
